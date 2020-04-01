@@ -1,7 +1,7 @@
 # Virtual-Keyboard
-To make a virtual keyboard for SoC
+##To make a virtual keyboard for SoC
 
-WORK UPDATES 
+**WORK UPDATES**
 1. 25-03-2020 
    Did the dual boot of ubuntu with windows10  
    Downloaded ubuntu os and then by using rufus created a bootable usb and then booted and then installed ubuntu
