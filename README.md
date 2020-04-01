@@ -12,5 +12,5 @@
 1. 31-03-2020
    - Studied section 5,7,8,9 of the python tutorials from [Python](https://docs.python.org/3/tutorial/)
 1. 01-04-2020
-   - Studied the basics, data science tutorials and first half of the advanced tutorials from [Python](https://www.learnpython.org/)
+   - Studied the basics, data science tutorials and first half of the advanced tutorials from [Learn Python](https://www.learnpython.org/)
    - Learnt about the Markdown syntax cheat sheet from [Markdown](https://www.youtube.com/watch?v=bpdvNwvEeSE)
