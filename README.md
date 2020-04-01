@@ -1,5 +1,5 @@
 # Virtual-Keyboard
-##To make a virtual keyboard for SoC
+**To make a virtual keyboard for SoC**
 
 **WORK UPDATES**
 1. 25-03-2020 
