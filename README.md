@@ -14,3 +14,7 @@
 1. 01-04-2020
    - Studied the basics, data science tutorials and first half of the advanced tutorials from [Learn Python](https://www.learnpython.org/)
    - Learnt about the Markdown syntax cheat sheet from [Markdown](https://www.youtube.com/watch?v=bpdvNwvEeSE)
+1. 02-04-2020
+   - Studied the scipy lecture notes from [Scipy]( https://scipy-lectures.org/)
+   - Started to work on problem 3 of the assignment
+   
