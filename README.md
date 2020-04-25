@@ -18,3 +18,4 @@
    - Studied the scipy lecture notes from [Scipy]( https://scipy-lectures.org/)
    - Started to work on problem 3 of the assignment
    
+**LEFT THE PROJECT . REASON- GOT BORED BY CODING
